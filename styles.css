@@ -18,3 +18,7 @@ section {
     display: flex; /* Altera o layout da seção para um flexbox */
     justify-content: center; /* Centraliza horizontalmente os itens filhos da seção */
 }
+
+.CHAMADA-TEXTO {
+    margin-right:20px;
+}
